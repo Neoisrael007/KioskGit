@@ -1,0 +1,149 @@
+html
+{
+	margin: 0;
+}
+body 
+{
+	margin: 0;
+}
+* 
+{
+	margin: 0;
+}
+
+h1
+{
+	margin: 0;
+}
+
+#topLine
+{
+	
+	background-image: url("asfalto.jpg");
+	padding: 5px;
+	border-bottom: 2px black solid;
+	color: white;
+	font-size: 150%;
+		
+}
+
+.inLineTitle
+{
+	
+	border-bottom: black 2px solid;
+	margin: 0px;
+	padding: 10px;
+	background-image: url("3.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#mainTitle
+{
+	font-size: 48px;
+	margin: 1%;
+	padding-top: 2%;
+	font-weight: bold;
+	
+
+}
+#mainTitleDesc
+{
+	margin: 1%;
+	font-weight: bold;
+
+}
+
+#logo
+{
+	
+}
+
+
+.opacity05 
+{
+	opacity: 0.5;
+	margin: 0px;
+}
+
+
+
+.center 
+{
+	float: center;
+	margin: 0px;
+
+}
+
+#telNumber
+{
+	margin: 0px;
+
+	color: white;
+	font-size: 24px;
+	font-style: italic;
+	font-weight: ;
+	padding-right: 50px;
+    
+position: absolute; left: 0; 
+    right: 0;
+    width: 300px;
+    
+}
+
+.navigation
+{
+	margin: 0;
+	
+	
+	background-color:#545454;
+	border-bottom: 2px black solid;
+	padding: 0.5%;
+}
+
+#navigationUL
+{	
+	margin: 0;
+	display: inline-flex;
+	list-style-type: none; 
+	float: right;
+	
+}
+
+.navigationBtns
+{
+
+	text-align: right;
+	padding-right: 100px;
+	font-weight: bold;
+	font-size: 100%;
+	font-size: 24px;
+	color: black;
+
+}
+
+a:link
+{
+	color: green;	
+}
+
+a:visited
+{
+	color: cyan;	
+}
+
+a:hover
+{
+	color: yellow;	
+}
+
+.jumbotron
+{
+
+	text-align: center;
+	background-color: gray;
+
+}
+
+
+
