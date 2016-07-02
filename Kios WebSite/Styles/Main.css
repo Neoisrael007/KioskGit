@@ -103,8 +103,8 @@ position: absolute; left: 0;
 
 #navigationUL
 {	
+	padding: 0;
 	margin: 0;
-	display: inline-flex;
 	list-style-type: none; 
 	float: right;
 	
@@ -112,9 +112,10 @@ position: absolute; left: 0;
 
 .navigationBtns
 {
-
+	display: inline;
 	text-align: right;
-	padding-right: 100px;
+	padding-right: 50px;
+	padding-left: 90px;
 	font-weight: bold;
 	font-size: 100%;
 	font-size: 24px;
@@ -139,7 +140,7 @@ a:hover
 
 .jumbotron
 {
-
+	padding: 100px;
 	text-align: center;
 	background-color: gray;
 
